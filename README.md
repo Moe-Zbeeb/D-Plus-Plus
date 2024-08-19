@@ -1,2 +1,2 @@
-# D-Plus-Plus
-Where You compile your network  - Ungoing Project where I implement a deep learning framework in c++  for fun 
+# D-Plus-Plus  
+![dpp](https://github.com/user-attachments/assets/d2908c81-d898-41cc-abd1-025623ec1907)
